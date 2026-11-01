@@ -59,23 +59,9 @@
 ### 🐾 闲语星尘 / Stardust Whisper
 
 <div align="center">
-  <img src="./dust-whisper-perfect.gif" alt="Stardust Whisper" width="700" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.5);" />
+  <img src="./assets/dust-whisper-perfect.gif" alt="Stardust Whisper" width="700" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.5);" />
 </div>
 
----
-
-### 📊 足迹 / GitHub Realtime Stats
-
-<table align="center" border="0" style="border: none;">
-  <tr style="border: none;">
-    <td align="center" style="border: none;" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=RLlufee&show_icons=true&theme=tokyonight&hide_border=false" alt="RLlufee's Stats" />
-    </td>
-    <td align="center" style="border: none;" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RLlufee&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
 ---
 
 ### 🌐 营地传送门 / Portal & Releases
