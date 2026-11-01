@@ -23,7 +23,7 @@
 
 ---
 
-### 🗡️ 兵刃谱·我的常用语言 / Tech Arsenal
+### 🗡️ 兵刃谱 / Tech Arsenal
 
 <div align="center">
 
@@ -50,7 +50,7 @@
 
 - 🎯 **编码风格**：有些强类型洁癖
 - 🎮 **喜爱的模组类型**：动作增强、机制拓展、沉浸式视效
-- 🚫 **雷区**：无脑秒杀机制、粗制滥造的数值怪！说的就是你，秒杀圈！！！
+- 🚫 **雷区**：无脑秒杀机制、粗制滥造的数值怪！
 
 </details>
 
@@ -61,6 +61,20 @@
 <div align="center">
   <img src="./assets/dust-whisper-perfect.gif" alt="Stardust Whisper" width="700" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.5);" />
 </div>
+
+---
+
+### 📊 战场足迹 / Active
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="./profile/stats.svg" alt="RLlufee's GitHub stats" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="./profile/top-langs.svg" alt="RLlufee's Most used languages" />
+  </a>
+</p>
 
 ---
 
